@@ -379,11 +379,3 @@ Building AI systems on cloud-native primitives that grow with you — not agains
 </div>
 
 <!-- natrajx · AI engineering · data engineering · ML pipelines · LLM evaluation · full-stack · Next.js · Python · production AI · ETL · cloud infrastructure · machine learning agency -->
-
-
-<!--
-  natrajx · AI engineering · data engineering · ML pipelines · LLM evaluation
-  full-stack development · Next.js · Python · production AI systems
-  ETL architecture · cloud infrastructure · startup engineering · enterprise AI
-  deterministic AI · FastAPI · data science · machine learning agency India
--->
