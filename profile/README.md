@@ -1,171 +1,224 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=NATRAJ%20X&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineering%20That%20Builds&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:16213e,70:0f3460,100:e8521a&height=220&section=header&text=NATRAJ%20X&fontSize=86&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineering%20That%20Builds&descAlignY=62&descSize=18&animation=fadeIn&fontAlign=50" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<!-- 🔁 Replace logo.png below with your animated GIF path after uploading it to the repo -->
+<img src="logo.png" width="90" height="90" alt="NATRAJ X Logo"/>
+
+<br/><br/>
+
+[![Website](https://img.shields.io/badge/natrajx.in-E8521A?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://www.natrajx.in/)
+[![Work](https://img.shields.io/badge/Our%20Work-0f3460?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.natrajx.in/work)
+[![Blog](https://img.shields.io/badge/Blog-16213e?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.natrajx.in/blog)
+[![Contact](https://img.shields.io/badge/Schedule%20a%20Meeting-E8521A?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://www.natrajx.in/contact)
+
+</div>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐%20Website-natrajx.in-302b63?style=for-the-badge&logoColor=white)](https://www.natrajx.in/)
-[![Contact](https://img.shields.io/badge/📬%20Contact%20Us-Schedule%20a%20Meeting-24243e?style=for-the-badge)](https://www.natrajx.in/contact)
-[![Work](https://img.shields.io/badge/💼%20Our%20Work-View%20Projects-0f0c29?style=for-the-badge)](https://www.natrajx.in/work)
-
-</div>
-
----
-
 <div align="center">
 
-### We build production-grade AI systems, data products, and full-stack applications for startups and enterprises worldwide.
+```
+  Production-grade AI systems · Data products · Full-stack applications
+              Built for startups and enterprises worldwide
+```
 
 </div>
 
 ---
 
-## 🧠 What We Do
-
-> **NATRAJ X** is a boutique AI engineering agency run by two engineers who care deeply about product quality, great UX, and systems that actually work in production.
-
-We don't just prototype — we **ship**.
-
----
-
-## ⚙️ Services
+## ⚙️ &nbsp;Services
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-**🗄️ Data Engineering**
-
+<td align="center" valign="top" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/🗄️%20Data%20Engineering-0f3460?style=for-the-badge" /><br/><br/>
 Robust data pipelines, scalable ETL architectures, and cloud data warehouses built for scale.
-
+<br/><br/>
 </td>
-<td align="center" width="25%">
-
-**🌐 Website Development**
-
+<td align="center" valign="top" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/🌐%20Web%20Development-16213e?style=for-the-badge" /><br/><br/>
 Modern, responsive frontend architectures and high-performance web applications.
-
+<br/><br/>
 </td>
-<td align="center" width="25%">
-
-**📊 Data Science**
-
+<td align="center" valign="top" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/📊%20Data%20Science-E8521A?style=for-the-badge" /><br/><br/>
 Advanced analytics, statistical modeling, and actionable business insights.
-
+<br/><br/>
 </td>
-<td align="center" width="25%">
-
-**🤖 ML Pipelines**
-
+<td align="center" valign="top" width="25%">
+<br/>
+<img src="https://img.shields.io/badge/🤖%20ML%20Pipelines-0f3460?style=for-the-badge" /><br/><br/>
 End-to-end machine learning orchestration and deterministic AI systems.
-
+<br/><br/>
 </td>
 </tr>
 </table>
 
-> Explore all services → [AI & ML](https://www.natrajx.in/aiml) · [Web Development](https://www.natrajx.in/webdev) · [Cloud/Infra](https://www.natrajx.in/cloudinfra)
-
----
-
-## 📈 By The Numbers
-
 <div align="center">
 
-| 🚀 Projects | 🤝 Collaborators | ✅ Satisfaction | 🕔 Years Experience | 🛠️ Support | ♾️ Dedication |
-|:-----------:|:----------------:|:---------------:|:-------------------:|:----------:|:-------------:|
-| **10+** | **50+** | **100%** | **5+** | **24/7** | **∞** |
+[AI & ML](https://www.natrajx.in/aiml) &nbsp;·&nbsp; [Web Development](https://www.natrajx.in/webdev) &nbsp;·&nbsp; [Cloud / Infra](https://www.natrajx.in/cloudinfra)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 &nbsp;At a Glance
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20Evaluation-FF6B6B?style=flat-square&logoColor=white)
-![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-302b63?style=flat-square&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9A00?style=flat-square&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud%20Infrastructure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20Architecture-4CAF50?style=flat-square&logoColor=white)
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/10%2B-Projects-E8521A?style=for-the-badge&labelColor=1a1a2e" /></td>
+<td align="center"><img src="https://img.shields.io/badge/50%2B-Collaborators-white?style=for-the-badge&labelColor=0f3460" /></td>
+<td align="center"><img src="https://img.shields.io/badge/100%25-Satisfaction-white?style=for-the-badge&labelColor=E8521A" /></td>
+<td align="center"><img src="https://img.shields.io/badge/5%2B%20Years-Experience-E8521A?style=for-the-badge&labelColor=1a1a2e" /></td>
+<td align="center"><img src="https://img.shields.io/badge/24%2F7-Support-white?style=for-the-badge&labelColor=0f3460" /></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 👥 The Team
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=E8521A)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
+
+**AI / ML**
+
+![LLM](https://img.shields.io/badge/LLM%20Evaluation-1a1a2e?style=flat-square&logo=openai&logoColor=E8521A)
+![ML Pipelines](https://img.shields.io/badge/ML%20Pipelines-1a1a2e?style=flat-square&logo=apacheairflow&logoColor=E8521A)
+![Data Science](https://img.shields.io/badge/Data%20Science-1a1a2e?style=flat-square&logo=jupyter&logoColor=F37726)
+
+**Infrastructure**
+
+![Cloud](https://img.shields.io/badge/Cloud%20Infra-1a1a2e?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![ETL](https://img.shields.io/badge/ETL%20Architecture-1a1a2e?style=flat-square&logo=apachekafka&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-1a1a2e?style=flat-square&logo=snowflake&logoColor=29B5E8)
+
+</div>
+
+---
+
+## 🚀 &nbsp;Featured Products
+
+> Built end-to-end — shipped features, polished UI, production-ready code.
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/TTA%20Engine-E8521A?style=for-the-badge" /><br/>
+<sub><b>Assessment Arena</b></sub><br/><br/>
+AI-powered testing and evaluation system built for scale.
+<br/><br/>
+</td>
+<td width="33%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/AI%20Notes%20Generator-0f3460?style=for-the-badge" /><br/>
+<sub><b>LLM-Powered</b></sub><br/><br/>
+Intelligent note generation with real production pipelines.
+<br/><br/>
+</td>
+<td width="33%" align="center" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/natrajx.dev-16213e?style=for-the-badge" /><br/>
+<sub><b>Internal Tooling</b></sub><br/><br/>
+Internal platform — <code>worker.py</code> · <code>tools.py</code> · <code>config.json</code>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects%20→-E8521A?style=for-the-badge)](https://www.natrajx.in/work)
+
+</div>
+
+---
+
+## 👥 &nbsp;The Team
 
 <table>
 <tr>
 <td align="center" width="50%">
+<br/>
 
-### Munish Pathania
-**Software Engineer**
+### 👨‍💻 Munish Pathania
+`Software Engineer`
 
 *Machine learning with curiosity.*
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br/>
 
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=E8521A)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-1a1a2e?style=flat-square&logoColor=white)
+
+<br/>
 </td>
 <td align="center" width="50%">
+<br/>
 
-### Rishabh Bhartiya
-**Machine Learning Engineer**
+### 👨‍🔬 Rishabh Bhartiya
+`Machine Learning Engineer`
 
 *Building production-grade AI systems with strong evaluation and data foundations.*
 
-![LLM](https://img.shields.io/badge/LLM%20Evaluation-FF6B6B?style=flat-square)
-![Educational AI](https://img.shields.io/badge/Educational%20AI-4CAF50?style=flat-square)
-![Data Optimization](https://img.shields.io/badge/Data--Driven%20Optimization-FF9A00?style=flat-square)
+<br/>
 
+![LLM Eval](https://img.shields.io/badge/LLM%20Evaluation-1a1a2e?style=flat-square&logoColor=E8521A)
+![Educational AI](https://img.shields.io/badge/Educational%20AI%20Systems-1a1a2e?style=flat-square&logoColor=white)
+![Data Optimization](https://img.shields.io/badge/Data--Driven%20Optimization-1a1a2e?style=flat-square&logoColor=white)
+
+<br/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🚀 Featured Products
-
-We build products end-to-end — polished UI, production-ready code, shipped features.
-
-| Product | Description |
-|---------|-------------|
-| **TTA Engine** | Assessment Arena — AI-powered testing and evaluation system |
-| **AI Notes Generator** | Intelligent note generation powered by LLMs |
-| **natrajx.dev** | Our internal tooling platform — `worker.py`, `tools.py`, `config.json` |
-
-🔗 [View All Projects →](https://www.natrajx.in/work)
-
----
-
-## 🤝 Work With Us
+## 🤝 &nbsp;Let's Build Together
 
 <div align="center">
 
-**Ready to innovate?**
+**Have a project in mind? Let's talk.**
 
-Let's talk about your next project and how NATRAJ X can help you build something exceptional.
+<br/>
 
-[![Schedule a Meeting](https://img.shields.io/badge/📅%20Schedule%20a%20Meeting-302b63?style=for-the-badge)](https://www.natrajx.in/contact)
-[![View Our Blog](https://img.shields.io/badge/📖%20Read%20Our%20Blog-24243e?style=for-the-badge)](https://www.natrajx.in/blog)
+[![Schedule a Meeting](https://img.shields.io/badge/📅%20Schedule%20a%20Meeting-E8521A?style=for-the-badge)](https://www.natrajx.in/contact)
+&nbsp;&nbsp;
+[![View Our Work](https://img.shields.io/badge/💼%20View%20Our%20Work-0f3460?style=for-the-badge)](https://www.natrajx.in/work)
+&nbsp;&nbsp;
+[![Read the Blog](https://img.shields.io/badge/📖%20Read%20the%20Blog-16213e?style=for-the-badge)](https://www.natrajx.in/blog)
 
-</div>
+<br/><br/>
 
----
+<sub>
+<a href="https://www.natrajx.in/privacy">Privacy Policy</a> &nbsp;·&nbsp;
+<a href="https://www.natrajx.in/terms">Terms</a> &nbsp;·&nbsp;
+<a href="https://www.natrajx.in">natrajx.in</a>
+</sub>
 
-<div align="center">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-**© 2026 NATRAJ X · All rights reserved**
-
-[Privacy Policy](https://www.natrajx.in/privacy) · [Terms](https://www.natrajx.in/terms) · [natrajx.in](https://www.natrajx.in)
-
-*AI Engineering That Delivers.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8521a,40:0f3460,70:16213e,100:1a1a2e&height=130&section=footer&text=AI%20Engineering%20That%20Delivers&fontSize=16&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%"/>
 
 </div>
