@@ -12,7 +12,7 @@
   For GitHub, convert it to a GIF and commit it to this repo, then replace the src below.
   Until then, the static PNG from your site is used as fallback.
 -->
-<img src="https://www.natrajx.in/logo.png" width="90" height="90" alt="NATRAJ X Logo"/>
+<img src="https://www.natrajx.in/LOGO-2.gif" width="90" height="90" alt="NATRAJ X Logo"/>
 
 <br/><br/>
 
