@@ -5,7 +5,7 @@
 <br/>
 
 <!-- 🔁 Replace logo.png below with your animated GIF path after uploading it to the repo -->
-<img src="logo.png" width="90" height="90" alt="NATRAJ X Logo"/>
+<img src="https://www.natrajx.in/LOGO-2.gif" width="90" height="90" alt="NATRAJ X Logo"/>
 
 <br/><br/>
 
