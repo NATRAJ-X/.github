@@ -1,377 +1,267 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:16213e,70:0f3460,100:e8521a&height=200&section=header&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=6&section=header" width="100%"/>
 </div>
+
+<!---------------------------------------------------------------------------->
+<!--  BLACK HEADER BAND                                                       -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d0d0d,100:000000&height=280&text=NATRAJ%20X&fontColor=E8521A&fontSize=90&fontAlignY=55&desc=AI%20%E2%80%A2%20Data%20%E2%80%A2%20Full-Stack&descSize=16&descFontColor=888888&descAlignY=75&animation=twinkling" width="100%"/>
+</div>
+
+<!---------------------------------------------------------------------------->
+<!--  LOGO — GIF on black: zero visible background, perfect blend            -->
+<!---------------------------------------------------------------------------->
 
 <div align="center">
 
-<!-- GIF has a black background — page dark bg blends it seamlessly -->
-<img src="https://www.natrajx.in/LOGO-2.gif" width="100" height="100" alt="NATRAJ X — AI Engineering Agency Logo"/>
-
 <br/>
 
-# NATRAJ X
-
-### AI Engineering · Data Products · Full-Stack Applications
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2800&pause=1200&color=E8521A&center=true&vCenter=true&width=620&lines=Production-grade+AI+systems+for+the+real+world.;Data+pipelines+that+don%27t+break+at+3AM.;ML+that+ships%2C+not+just+notebooks.;Full-stack+applications+built+end-to-end.;Working+with+startups+%26+enterprises+worldwide.)
-
-<br/>
-
-[![natrajx.in](https://img.shields.io/badge/🌐%20natrajx.in-E8521A?style=for-the-badge)](https://natrajx.in)
-[![Contact](https://img.shields.io/badge/📬%20Contact-0f3460?style=for-the-badge)](https://natrajx.in/contact)
-[![Work](https://img.shields.io/badge/💼%20Our%20Work-16213e?style=for-the-badge)](https://natrajx.in/work)
-[![Blog](https://img.shields.io/badge/📖%20Blog-1a1a2e?style=for-the-badge)](https://natrajx.in/blog)
-
-<br/>
-
-[![Twitter/X](https://img.shields.io/badge/𝕏%20Twitter-1a1a2e?style=flat-square&logo=x&logoColor=white)](https://x.com/natrajx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/company/natrajx)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/natrajx)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!--  ╔══════════════════════════════════════════╗  -->
-<!--  ║            ABOUT / POSITIONING           ║  -->
-<!--  ╚══════════════════════════════════════════╝  -->
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   We are an AI engineering agency that builds production-grade          │
-│   systems — not proof-of-concepts. Every project ships with real        │
-│   architecture, clean code, and UX that people actually want to use.    │
-│                                                                         │
-│   Clients range from early-stage startups to global enterprises.        │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!--  ╔══════════════════════════════════════════╗  -->
-<!--  ║               SERVICES                   ║  -->
-<!--  ╚══════════════════════════════════════════╝  -->
-
-## &nbsp;⚙️ &nbsp;What We Build
-
-<br/>
-
-<table>
-<tr>
-
-<td align="left" valign="top" width="50%">
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f3460?style=flat-square" width="100%"/>
-
-### 🗄️ &nbsp;Data Engineering
-<sub>[`natrajx.in/aiml`](https://natrajx.in/aiml)</sub>
-
-Scalable ETL pipelines, cloud data warehouses, and real-time stream architectures — designed to handle production load from day one.
-
-`Apache Kafka` `Snowflake` `dbt` `Airflow` `AWS` `BigQuery`
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f3460?style=flat-square" width="100%"/>
-
-</td>
-
-<td align="left" valign="top" width="50%">
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-16213e?style=flat-square" width="100%"/>
-
-### 🌐 &nbsp;Website Development
-<sub>[`natrajx.in/webdev`](https://natrajx.in/webdev)</sub>
-
-Modern, responsive frontends with high-performance architecture — built to convert, retain, and scale.
-
-`Next.js` `TypeScript` `React` `Tailwind` `Vercel` `Framer Motion`
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-16213e?style=flat-square" width="100%"/>
-
-</td>
-
-</tr>
-<tr>
-
-<td align="left" valign="top" width="50%">
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-E8521A?style=flat-square" width="100%"/>
-
-### 📊 &nbsp;Data Science
-<sub>[`natrajx.in/aiml`](https://natrajx.in/aiml)</sub>
-
-Advanced statistical modeling, business intelligence, and analytics that drive real decisions — not dashboard vanity metrics.
-
-`Python` `Pandas` `Scikit-learn` `Jupyter` `Plotly` `SQL`
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-E8521A?style=flat-square" width="100%"/>
-
-</td>
-
-<td align="left" valign="top" width="50%">
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f3460?style=flat-square" width="100%"/>
-
-### 🤖 &nbsp;ML Pipelines & AI Systems
-<sub>[`natrajx.in/cloudinfra`](https://natrajx.in/cloudinfra)</sub>
-
-End-to-end machine learning orchestration — from training to inference. Deterministic, evaluated, and production-hardened.
-
-`LLM Evaluation` `MLflow` `FastAPI` `Docker` `LangChain` `PyTorch`
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f3460?style=flat-square" width="100%"/>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<!--  ╔══════════════════════════════════════════╗  -->
-<!--  ║               METRICS                    ║  -->
-<!--  ╚══════════════════════════════════════════╝  -->
-
-## &nbsp;📈 &nbsp;At a Glance
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/10%2B-1a1a2e?style=for-the-badge&labelColor=E8521A" /><br/>
-<sub>**Projects Shipped**</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/50%2B-1a1a2e?style=for-the-badge&labelColor=0f3460" /><br/>
-<sub>**Collaborators**</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/100%25-1a1a2e?style=for-the-badge&labelColor=E8521A" /><br/>
-<sub>**Client Satisfaction**</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/5%2B%20yrs-1a1a2e?style=for-the-badge&labelColor=0f3460" /><br/>
-<sub>**Experience**</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/24%2F7-1a1a2e?style=for-the-badge&labelColor=E8521A" /><br/>
-<sub>**Support**</sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/∞-1a1a2e?style=for-the-badge&labelColor=16213e" /><br/>
-<sub>**Dedication**</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!--  ╔══════════════════════════════════════════╗  -->
-<!--  ║           FEATURED PROJECTS              ║  -->
-<!--  ╚══════════════════════════════════════════╝  -->
-
-## &nbsp;🚀 &nbsp;Featured Projects
-
-<sub>A focused set of real systems — built end-to-end with production architecture, polished UX, and shipped features.</sub>
-
-<br/>
-
-<table>
-<tr>
-
-<!-- PROJECT 1 -->
-<td align="left" valign="top" width="33%">
-
-<div align="center">
-<a href="https://natrajx.in/work/text-to-animation-engine">
-<img src="https://img.shields.io/badge/TEXT%20TO%20ANIMATION%20ENGINE-E8521A?style=for-the-badge&logoColor=white" />
-</a>
-</div>
-
-<br/>
-
-**Generative AI → Motion**
-
-Converts plain text prompts into rendered animations using a deterministic AI pipeline. Built for repeatability and production-grade output quality.
-
-<br/>
-
-`Generative AI` `Python` `Animation` `LLM`
-
-<br/>
-
-<div align="center">
-<a href="https://natrajx.in/work/text-to-animation-engine">
-<img src="https://img.shields.io/badge/View%20Project%20→-1a1a2e?style=flat-square&labelColor=0f3460" />
-</a>
-</div>
-
-</td>
-
-<!-- PROJECT 2 -->
-<td align="left" valign="top" width="33%">
-
-<div align="center">
-<a href="https://natrajx.in/work/assessment-arena">
-<img src="https://img.shields.io/badge/ASSESSMENT%20ARENA-0f3460?style=for-the-badge&logoColor=white" />
-</a>
-</div>
-
-<br/>
-
-**AI-Powered Evaluation Platform**
-
-Full-stack educational AI system for adaptive testing and learner assessment. End-to-end from data model to deployed product.
-
-<br/>
-
-`Educational AI` `Next.js` `LLM Evaluation` `TypeScript`
-
-<br/>
-
-<div align="center">
-<a href="https://natrajx.in/work/assessment-arena">
-<img src="https://img.shields.io/badge/View%20Project%20→-1a1a2e?style=flat-square&labelColor=0f3460" />
-</a>
-</div>
-
-</td>
-
-<!-- PROJECT 3 -->
-<td align="left" valign="top" width="33%">
-
-<div align="center">
-<a href="https://natrajx.in/work/f1-2025-performance-analytics">
-<img src="https://img.shields.io/badge/F1%202025%20ANALYTICS-16213e?style=for-the-badge&logoColor=white" />
-</a>
-</div>
-
-<br/>
-
-**Sports Data Engineering**
-
-Formula 1 2025 performance analytics — real race data, ingestion pipelines, and a live analytics dashboard built from scratch.
-
-<br/>
-
-`Data Engineering` `Python` `Plotly` `FastAPI` `Dashboard`
-
-<br/>
-
-<div align="center">
-<a href="https://natrajx.in/work/f1-2025-performance-analytics">
-<img src="https://img.shields.io/badge/View%20Project%20→-1a1a2e?style=flat-square&labelColor=0f3460" />
-</a>
-</div>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-[![View All 6 Projects →](https://img.shields.io/badge/View%20All%20Projects%20→-E8521A?style=for-the-badge)](https://natrajx.in/work)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!--  ╔══════════════════════════════════════════╗  -->
-<!--  ║                 BLOG                     ║  -->
-<!--  ╚══════════════════════════════════════════╝  -->
-
-## &nbsp;📝 &nbsp;Engineering Blog
-
-<sub>Technical writing on AI systems, ML infrastructure, and software architecture from the engineers building it.</sub>
-
-<br/>
-
-<table>
-<tr>
-
-<td valign="top" width="50%">
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-E8521A?style=flat-square" width="100%"/>
-
-**[🧠 &nbsp;Deterministic AI Systems](https://natrajx.in/blog/deterministic-ai-systems)**<br/>
-<sub>`Jan 2026` &nbsp;·&nbsp; `AI Engineering` &nbsp;·&nbsp; `Production`</sub><br/>
-How to build AI systems that behave reliably in production — not just in notebooks.
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-E8521A?style=flat-square" width="100%"/>
-
-**[⚡ &nbsp;Scaling FastAPI to Production](https://natrajx.in/blog/scaling-fastapi-production)**<br/>
-<sub>`Dec 2025` &nbsp;·&nbsp; `Backend` &nbsp;·&nbsp; `Python`</sub><br/>
-Architectural patterns for running FastAPI at scale — workers, caching, and beyond.
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-E8521A?style=flat-square" width="100%"/>
-
-**[📡 &nbsp;ML Model Monitoring & Drift](https://natrajx.in/blog/ml-model-monitoring-drift)**<br/>
-<sub>`Nov 2025` &nbsp;·&nbsp; `MLOps` &nbsp;·&nbsp; `Data Quality`</sub><br/>
-Detecting and responding to model drift before it silently ruins your product.
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-E8521A?style=flat-square" width="100%"/>
-
-</td>
-
-<td valign="top" width="50%">
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f3460?style=flat-square" width="100%"/>
-
-**[🏗️ &nbsp;Next.js Architecture Patterns](https://natrajx.in/blog/nextjs-architecture-patterns)**<br/>
-<sub>`Oct 2025` &nbsp;·&nbsp; `Frontend` &nbsp;·&nbsp; `Next.js`</sub><br/>
-Scalable folder structures, server components, and patterns for real-world Next.js apps.
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f3460?style=flat-square" width="100%"/>
-
-**[☁️ &nbsp;Cloud-Native AI Infrastructure](https://natrajx.in/blog/cloud-native-ai-infrastructure)**<br/>
-<sub>`Sep 2025` &nbsp;·&nbsp; `Cloud` &nbsp;·&nbsp; `MLOps`</sub><br/>
-Building AI systems on cloud-native primitives that scale with you — not against you.
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0f3460?style=flat-square" width="100%"/>
+<img src="https://www.natrajx.in/LOGO-2.gif" width="96" alt="NATRAJ X"/>
 
 <br/><br/>
-<div align="center">
-<a href="https://natrajx.in/blog">
-<img src="https://img.shields.io/badge/Read%20All%20Posts%20→-E8521A?style=for-the-badge" />
-</a>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=E8521A&center=true&vCenter=true&width=700&lines=%24+building+production-grade+AI+systems...;%24+shipping+real+products%2C+not+prototypes...;%24+data+pipelines+%7C+ML+%7C+full-stack...;%24+working+with+startups+%26+enterprises+worldwide...;%24+natrajx.in+--+since+2020)
+
+<br/>
+
+[![](https://img.shields.io/badge/natrajx.in-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=E8521A&labelColor=000000)](https://natrajx.in)&nbsp;
+[![](https://img.shields.io/badge/Contact-E8521A?style=for-the-badge&labelColor=E8521A&logoColor=000)](https://natrajx.in/contact)&nbsp;
+[![](https://img.shields.io/badge/Work-111111?style=for-the-badge&labelColor=111111&logoColor=E8521A)](https://natrajx.in/work)&nbsp;
+[![](https://img.shields.io/badge/Blog-111111?style=for-the-badge&labelColor=111111&logoColor=E8521A)](https://natrajx.in/blog)
+
+<br/>
+
+[![](https://img.shields.io/badge/𝕏-0d0d0d?style=flat-square&logo=x&logoColor=ffffff&labelColor=0d0d0d)](https://x.com/natrajx)&nbsp;
+[![](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0d0d0d)](https://linkedin.com/company/natrajx)&nbsp;
+[![](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d0d0d)](https://github.com/natrajx)
+
 </div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!--  DIVIDER                                                                 -->
+<!---------------------------------------------------------------------------->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8521A&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!--  MANIFESTO BLOCK                                                         -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   We are an AI engineering studio that builds systems meant for production.  ║
+║   Not demos. Not dashboards. Not decks.                                      ║
+║                                                                              ║
+║   Every engagement ends with deployed software, clean architecture,          ║
+║   and UX that users actually want to return to.                              ║
+║                                                                              ║
+║   Clients range from early-stage startups to global enterprises.             ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!--  METRICS                                                                 -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+[![](https://img.shields.io/badge/10%2B_Projects-000?style=for-the-badge&labelColor=E8521A&color=000000)](https://natrajx.in/work)&nbsp;
+[![](https://img.shields.io/badge/50%2B_Collaborators-000?style=for-the-badge&labelColor=0f3460&color=000000)](https://natrajx.in)&nbsp;
+[![](https://img.shields.io/badge/100%25_Satisfaction-000?style=for-the-badge&labelColor=E8521A&color=000000)](https://natrajx.in)&nbsp;
+[![](https://img.shields.io/badge/5%2B_Years-000?style=for-the-badge&labelColor=0f3460&color=000000)](https://natrajx.in)&nbsp;
+[![](https://img.shields.io/badge/24%2F7_Support-000?style=for-the-badge&labelColor=E8521A&color=000000)](https://natrajx.in/contact)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!--  SERVICES                                                                -->
+<!---------------------------------------------------------------------------->
+
+## &nbsp;`⚙` &nbsp;SERVICES
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```
+┌─[ DATA ENGINEERING ]──────────────────────────┐
+│                                                │
+│  Scalable ETL · Cloud Warehouses · Streaming   │
+│                                                │
+│  Pipelines built to handle production load     │
+│  from day one — not retrofitted after launch.  │
+│                                                │
+│  → Apache Kafka  → dbt  → Snowflake            │
+│  → Airflow       → AWS  → BigQuery             │
+│                                                │
+└────────────────────────────────────────────────┘
+```
+<div align="right"><sub><a href="https://natrajx.in/aiml">natrajx.in/aiml →</a></sub></div>
+
+</td>
+<td width="50%" valign="top">
+
+```
+┌─[ ML PIPELINES & AI SYSTEMS ]─────────────────┐
+│                                                │
+│  LLM Eval · MLOps · Deterministic AI           │
+│                                                │
+│  End-to-end ML orchestration — training to     │
+│  inference. Evaluated, monitored, production   │
+│  hardened.                                     │
+│                                                │
+│  → PyTorch   → MLflow    → LangChain           │
+│  → FastAPI   → Docker    → LLM Evals           │
+│                                                │
+└────────────────────────────────────────────────┘
+```
+<div align="right"><sub><a href="https://natrajx.in/aiml">natrajx.in/aiml →</a></sub></div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```
+┌─[ WEB DEVELOPMENT ]───────────────────────────┐
+│                                                │
+│  Next.js · TypeScript · Performance-First      │
+│                                                │
+│  Modern responsive frontends built to          │
+│  convert, retain, and scale with the           │
+│  product — not just look good in Figma.        │
+│                                                │
+│  → Next.js        → React     → Tailwind       │
+│  → Framer Motion  → Vercel    → TypeScript     │
+│                                                │
+└────────────────────────────────────────────────┘
+```
+<div align="right"><sub><a href="https://natrajx.in/webdev">natrajx.in/webdev →</a></sub></div>
+
+</td>
+<td width="50%" valign="top">
+
+```
+┌─[ CLOUD & INFRA ]─────────────────────────────┐
+│                                                │
+│  Cloud-Native · Scalable · Resilient           │
+│                                                │
+│  Infrastructure designed for AI workloads —    │
+│  containerised, monitored, and built to        │
+│  survive real traffic.                         │
+│                                                │
+│  → AWS / GCP     → Kubernetes  → Terraform     │
+│  → CI/CD         → Prometheus  → Grafana       │
+│                                                │
+└────────────────────────────────────────────────┘
+```
+<div align="right"><sub><a href="https://natrajx.in/cloudinfra">natrajx.in/cloudinfra →</a></sub></div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!--  FEATURED PROJECTS                                                       -->
+<!---------------------------------------------------------------------------->
+
+## &nbsp;`🚀` &nbsp;FEATURED PROJECTS
+
+<sub>Three projects. Built end-to-end. Shipped to production.</sub>
+
+<br/>
+
+<table width="100%">
+<tr>
+
+<!-------- PROJECT 1 -------->
+<td width="33%" valign="top" align="center">
+
+[![](https://img.shields.io/badge/01-E8521A?style=for-the-badge&labelColor=E8521A&color=000000)](https://natrajx.in/work/text-to-animation-engine)
+
+**[TEXT → ANIMATION ENGINE](https://natrajx.in/work/text-to-animation-engine)**
+
+```
+TYPE    Generative AI
+STACK   Python · LLM · FFmpeg
+STATUS  ✓ Shipped
+```
+
+Converts natural language prompts into rendered animations via a deterministic AI pipeline. Built for repeatability and production output quality.
+
+<br/>
+
+[![View →](https://img.shields.io/badge/View_Project-111111?style=flat-square&labelColor=111111&color=111111&logoColor=E8521A)](https://natrajx.in/work/text-to-animation-engine)
+
+</td>
+
+<!-------- PROJECT 2 -------->
+<td width="33%" valign="top" align="center">
+
+[![](https://img.shields.io/badge/02-E8521A?style=for-the-badge&labelColor=0f3460&color=000000)](https://natrajx.in/work/assessment-arena)
+
+**[ASSESSMENT ARENA](https://natrajx.in/work/assessment-arena)**
+
+```
+TYPE    Educational AI
+STACK   Next.js · LLM Eval · TS
+STATUS  ✓ Shipped
+```
+
+Full-stack adaptive testing platform. AI-driven question generation, learner scoring, and real-time evaluation — deployed end-to-end.
+
+<br/>
+
+[![View →](https://img.shields.io/badge/View_Project-111111?style=flat-square&labelColor=111111&color=111111)](https://natrajx.in/work/assessment-arena)
+
+</td>
+
+<!-------- PROJECT 3 -------->
+<td width="33%" valign="top" align="center">
+
+[![](https://img.shields.io/badge/03-E8521A?style=for-the-badge&labelColor=E8521A&color=000000)](https://natrajx.in/work/f1-2025-performance-analytics)
+
+**[F1 2025 ANALYTICS](https://natrajx.in/work/f1-2025-performance-analytics)**
+
+```
+TYPE    Sports Data Engineering
+STACK   Python · Plotly · FastAPI
+STATUS  ✓ Shipped
+```
+
+Formula 1 2025 race data pipeline and live analytics dashboard. Real telemetry ingestion, lap-by-lap breakdowns, driver comparison.
+
+<br/>
+
+[![View →](https://img.shields.io/badge/View_Project-111111?style=flat-square&labelColor=111111&color=111111)](https://natrajx.in/work/f1-2025-performance-analytics)
 
 </td>
 
@@ -380,116 +270,156 @@ Building AI systems on cloud-native primitives that scale with you — not again
 
 <br/>
 
----
-
-<br/>
-
-<!--  ╔══════════════════════════════════════════╗  -->
-<!--  ║              TECH STACK                  ║  -->
-<!--  ╚══════════════════════════════════════════╝  -->
-
-## &nbsp;🛠️ &nbsp;Tech Stack
-
-<br/>
-
 <div align="center">
 
-<table>
-<tr><td align="center"><b>Languages</b></td><td>
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=E8521A)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1)
-
-</td></tr>
-<tr><td align="center"><b>Frontend</b></td><td>
-
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Framer](https://img.shields.io/badge/Framer%20Motion-1a1a2e?style=flat-square&logo=framer&logoColor=white)
-
-</td></tr>
-<tr><td align="center"><b>AI / ML</b></td><td>
-
-![OpenAI](https://img.shields.io/badge/LLMs-1a1a2e?style=flat-square&logo=openai&logoColor=E8521A)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![MLflow](https://img.shields.io/badge/MLflow-1a1a2e?style=flat-square&logo=mlflow&logoColor=0194E2)
-![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=flat-square&logoColor=white)
-
-</td></tr>
-<tr><td align="center"><b>Data</b></td><td>
-
-![Kafka](https://img.shields.io/badge/Kafka-1a1a2e?style=flat-square&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-1a1a2e?style=flat-square&logo=apacheairflow&logoColor=017CEE)
-![Snowflake](https://img.shields.io/badge/Snowflake-1a1a2e?style=flat-square&logo=snowflake&logoColor=29B5E8)
-![dbt](https://img.shields.io/badge/dbt-1a1a2e?style=flat-square&logo=dbt&logoColor=FF694B)
-
-</td></tr>
-<tr><td align="center"><b>Infra</b></td><td>
-
-![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=flat-square&logo=fastapi&logoColor=009688)
-![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=flat-square&logo=vercel&logoColor=white)
-
-</td></tr>
-</table>
+[![](https://img.shields.io/badge/VIEW_ALL_6_PROJECTS_→-E8521A?style=for-the-badge&labelColor=E8521A&color=000000)](https://natrajx.in/work)
 
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!--  BLOG                                                                    -->
+<!---------------------------------------------------------------------------->
+
+## &nbsp;`📡` &nbsp;ENGINEERING BLOG
+
+<sub>Technical writing on AI systems, ML infrastructure, and software architecture — from the engineers building it.</sub>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**`JAN 2026`** &nbsp; [`AI · Production`](https://natrajx.in/blog/deterministic-ai-systems)
+### [Deterministic AI Systems](https://natrajx.in/blog/deterministic-ai-systems)
+How to build AI that behaves reliably in production — not just in notebooks. Evaluation strategies, reproducibility, and failure modes.
+
+---
+
+**`DEC 2025`** &nbsp; [`Backend · Python`](https://natrajx.in/blog/scaling-fastapi-production)
+### [Scaling FastAPI to Production](https://natrajx.in/blog/scaling-fastapi-production)
+Architectural patterns for running FastAPI at real load — async workers, caching layers, and deployment strategies.
+
+---
+
+**`NOV 2025`** &nbsp; [`MLOps · Monitoring`](https://natrajx.in/blog/ml-model-monitoring-drift)
+### [ML Model Monitoring & Drift](https://natrajx.in/blog/ml-model-monitoring-drift)
+Detecting and responding to model drift before it silently ruins your product.
+
+</td>
+<td width="50%" valign="top">
+
+**`OCT 2025`** &nbsp; [`Frontend · Next.js`](https://natrajx.in/blog/nextjs-architecture-patterns)
+### [Next.js Architecture Patterns](https://natrajx.in/blog/nextjs-architecture-patterns)
+Scalable folder structures, server components, and real-world patterns for production Next.js applications.
+
+---
+
+**`SEP 2025`** &nbsp; [`Cloud · MLOps`](https://natrajx.in/blog/cloud-native-ai-infrastructure)
+### [Cloud-Native AI Infrastructure](https://natrajx.in/blog/cloud-native-ai-infrastructure)
+Building AI systems on cloud-native primitives that grow with you — not against you.
+
 ---
 
 <br/>
 
-<!--  ╔══════════════════════════════════════════╗  -->
-<!--  ║                 CTA                      ║  -->
-<!--  ╚══════════════════════════════════════════╝  -->
+<div align="center">
+
+[![](https://img.shields.io/badge/READ_ALL_POSTS_→-E8521A?style=for-the-badge&labelColor=E8521A&color=000000)](https://natrajx.in/blog)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!--  TECH STACK                                                              -->
+<!---------------------------------------------------------------------------->
+
+## &nbsp;`🛠` &nbsp;STACK
+
+<br/>
 
 <div align="center">
 
-### Ready to build something?
+| Layer | Technologies |
+|:-----:|:-------------|
+| **Languages** | ![](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=E8521A) ![](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6) ![](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/SQL-000?style=flat-square&logo=postgresql&logoColor=4169E1) |
+| **Frontend** | ![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff) ![](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![](https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer&logoColor=fff) |
+| **AI / ML** | ![](https://img.shields.io/badge/LLMs-000?style=flat-square&logo=openai&logoColor=E8521A) ![](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![](https://img.shields.io/badge/MLflow-000?style=flat-square&logo=mlflow&logoColor=0194E2) ![](https://img.shields.io/badge/LangChain-000?style=flat-square&logoColor=fff) |
+| **Data** | ![](https://img.shields.io/badge/Kafka-000?style=flat-square&logo=apachekafka&logoColor=fff) ![](https://img.shields.io/badge/Airflow-000?style=flat-square&logo=apacheairflow&logoColor=017CEE) ![](https://img.shields.io/badge/Snowflake-000?style=flat-square&logo=snowflake&logoColor=29B5E8) ![](https://img.shields.io/badge/dbt-000?style=flat-square&logo=dbt&logoColor=FF694B) |
+| **Infra** | ![](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonwebservices&logoColor=FF9900) ![](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED) ![](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=009688) ![](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff) |
 
-<sub>Tell us what you're working on — we'll figure out how to make it real.</sub>
-
-<br/>
-
-[![Contact Us](https://img.shields.io/badge/📬%20Contact%20Us-E8521A?style=for-the-badge)](https://natrajx.in/contact)
-&nbsp;
-[![View Work](https://img.shields.io/badge/💼%20View%20Work-0f3460?style=for-the-badge)](https://natrajx.in/work)
-&nbsp;
-[![More About Us](https://img.shields.io/badge/🔍%20More%20About%20Us-16213e?style=for-the-badge)](https://natrajx.in/more)
+</div>
 
 <br/>
 
-[![Twitter/X](https://img.shields.io/badge/𝕏-1a1a2e?style=for-the-badge&logo=x&logoColor=white)](https://x.com/natrajx)
-[![LinkedIn](https://img.shields.io/badge/in-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/company/natrajx)
-[![GitHub](https://img.shields.io/badge/⌥-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natrajx)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=2&section=header" width="100%"/>
+
+<br/>
+
+<!---------------------------------------------------------------------------->
+<!--  CTA                                                                     -->
+<!---------------------------------------------------------------------------->
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   Have something to build?                                       │
+│   Tell us what you're working on.                                │
+│                                                                  │
+│   We'll figure out how to make it real.                          │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+[![](https://img.shields.io/badge/CONTACT_US-E8521A?style=for-the-badge&labelColor=E8521A&color=000000)](https://natrajx.in/contact)&nbsp;
+[![](https://img.shields.io/badge/VIEW_WORK-111111?style=for-the-badge&labelColor=111111&color=000000)](https://natrajx.in/work)&nbsp;
+[![](https://img.shields.io/badge/MORE_ABOUT_US-111111?style=for-the-badge&labelColor=111111&color=000000)](https://natrajx.in/more)
+
+<br/>
+
+[![](https://img.shields.io/badge/𝕏-000?style=for-the-badge&logo=x&logoColor=fff&labelColor=111111)](https://x.com/natrajx)&nbsp;
+[![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111111)](https://linkedin.com/company/natrajx)&nbsp;
+[![](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff&labelColor=111111)](https://github.com/natrajx)
 
 <br/>
 
 <sub>
-<a href="https://natrajx.in/privacy">Privacy Policy</a> &nbsp;·&nbsp;
+<a href="https://natrajx.in/privacy">Privacy</a> &nbsp;·&nbsp;
 <a href="https://natrajx.in/terms">Terms</a> &nbsp;·&nbsp;
 <a href="https://natrajx.in">natrajx.in</a> &nbsp;·&nbsp;
-© 2026 NATRAJ X
+© 2026 NATRAJ X. All rights reserved.
 </sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8521a,40:0f3460,70:16213e,100:1a1a2e&height=130&section=footer&text=AI%20Engineering%20That%20Delivers&fontSize=15&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%"/>
 
 </div>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8521A&height=2&section=footer" width="100%"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0d0d0d,100:000000&height=100&section=footer&reversal=false" width="100%"/>
+</div>
+
 <!--
-  ┌─────────────────────────────────────────────────────────────────┐
-  │  SEO KEYWORDS (for GitHub indexing and discoverability)         │
-  │  AI engineering agency · data engineering · ML pipelines        │
-  │  LLM evaluation · full-stack development · Next.js · Python     │
-  │  data science · ETL architecture · cloud infrastructure         │
-  │  production AI systems · startup engineering · enterprise AI    │
-  └─────────────────────────────────────────────────────────────────┘
+  natrajx · AI engineering · data engineering · ML pipelines · LLM evaluation
+  full-stack development · Next.js · Python · production AI systems
+  ETL architecture · cloud infrastructure · startup engineering · enterprise AI
+  deterministic AI · FastAPI · data science · machine learning agency India
 -->
