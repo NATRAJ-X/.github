@@ -6,26 +6,24 @@
 
 <div align="center">
 
-<!-- 🔁 Replace logo.png below with your animated GIF path after uploading it to the repo -->
-<img src="logo.png" width="90" height="90" alt="NATRAJ X Logo"/>
+<!--
+  ⚠️ GitHub does not render .webm video files inline.
+  The animated logo lives at: https://www.natrajx.in/logo.webm
+  For GitHub, convert it to a GIF and commit it to this repo, then replace the src below.
+  Until then, the static PNG from your site is used as fallback.
+-->
+<img src="https://www.natrajx.in/logo.png" width="90" height="90" alt="NATRAJ X Logo"/>
 
 <br/><br/>
 
-[![Website](https://img.shields.io/badge/natrajx.in-E8521A?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://www.natrajx.in/)
-[![Work](https://img.shields.io/badge/Our%20Work-0f3460?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.natrajx.in/work)
-[![Blog](https://img.shields.io/badge/Blog-16213e?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.natrajx.in/blog)
-[![Contact](https://img.shields.io/badge/Schedule%20a%20Meeting-E8521A?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://www.natrajx.in/contact)
-
-</div>
+[![Website](https://img.shields.io/badge/natrajx.in-E8521A?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://natrajx.in)
+[![Work](https://img.shields.io/badge/Our%20Work-0f3460?style=for-the-badge&logo=briefcase&logoColor=white)](https://natrajx.in/work)
+[![Blog](https://img.shields.io/badge/Blog-16213e?style=for-the-badge&logo=hashnode&logoColor=white)](https://natrajx.in/blog)
+[![Contact](https://img.shields.io/badge/Schedule%20a%20Meeting-E8521A?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://natrajx.in/contact)
 
 <br/>
 
-<div align="center">
-
-```
-  Production-grade AI systems · Data products · Full-stack applications
-              Built for startups and enterprises worldwide
-```
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=E8521A&center=true&vCenter=true&width=600&lines=Production-grade+AI+systems;Data+products+%26+Full-stack+applications;Built+for+startups+and+enterprises+worldwide;Shipping+real+products+since+day+one.)
 
 </div>
 
@@ -64,7 +62,7 @@ End-to-end machine learning orchestration and deterministic AI systems.
 
 <div align="center">
 
-[AI & ML](https://www.natrajx.in/aiml) &nbsp;·&nbsp; [Web Development](https://www.natrajx.in/webdev) &nbsp;·&nbsp; [Cloud / Infra](https://www.natrajx.in/cloudinfra)
+[AI & ML](https://natrajx.in/aiml) &nbsp;·&nbsp; [Web Development](https://natrajx.in/webdev) &nbsp;·&nbsp; [Cloud / Infra](https://natrajx.in/cloudinfra)
 
 </div>
 
@@ -115,7 +113,7 @@ End-to-end machine learning orchestration and deterministic AI systems.
 
 ---
 
-## 🚀 &nbsp;Featured Products
+## 🚀 &nbsp;Featured Projects
 
 > Built end-to-end — shipped features, polished UI, production-ready code.
 
@@ -123,23 +121,58 @@ End-to-end machine learning orchestration and deterministic AI systems.
 <tr>
 <td width="33%" align="center" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/TTA%20Engine-E8521A?style=for-the-badge" /><br/>
-<sub><b>Assessment Arena</b></sub><br/><br/>
-AI-powered testing and evaluation system built for scale.
+<a href="https://natrajx.in/work/text-to-animation-engine">
+<img src="https://img.shields.io/badge/Text%20to%20Animation%20Engine-E8521A?style=for-the-badge" />
+</a><br/>
+<sub><b>Generative AI · Animation</b></sub><br/><br/>
+Turn plain text into animated visual output using a production-grade AI pipeline.
 <br/><br/>
 </td>
 <td width="33%" align="center" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/AI%20Notes%20Generator-0f3460?style=for-the-badge" /><br/>
+<a href="https://natrajx.in/work/assessment-arena">
+<img src="https://img.shields.io/badge/Assessment%20Arena-0f3460?style=for-the-badge" />
+</a><br/>
+<sub><b>Educational AI</b></sub><br/><br/>
+AI-powered testing and evaluation system built for real learning environments.
+<br/><br/>
+</td>
+<td width="33%" align="center" valign="top">
+<br/>
+<a href="https://natrajx.in/work/ai-notes-generator">
+<img src="https://img.shields.io/badge/AI%20Notes%20Generator-16213e?style=for-the-badge" />
+</a><br/>
 <sub><b>LLM-Powered</b></sub><br/><br/>
-Intelligent note generation with real production pipelines.
+Intelligent note generation with real production LLM pipelines.
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<br/>
+<a href="https://natrajx.in/work/scalable-news-platform">
+<img src="https://img.shields.io/badge/Scalable%20News%20Platform-E8521A?style=for-the-badge" />
+</a><br/>
+<sub><b>Data Engineering · Web</b></sub><br/><br/>
+High-throughput news ingestion and delivery platform built for scale.
 <br/><br/>
 </td>
 <td width="33%" align="center" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/natrajx.dev-16213e?style=for-the-badge" /><br/>
-<sub><b>Internal Tooling</b></sub><br/><br/>
-Internal platform — <code>worker.py</code> · <code>tools.py</code> · <code>config.json</code>
+<a href="https://natrajx.in/work/google-stock-analysis">
+<img src="https://img.shields.io/badge/Google%20Stock%20Analysis-0f3460?style=for-the-badge" />
+</a><br/>
+<sub><b>Data Science · Finance</b></sub><br/><br/>
+Deep statistical modeling and forecasting on Google stock performance.
+<br/><br/>
+</td>
+<td width="33%" align="center" valign="top">
+<br/>
+<a href="https://natrajx.in/work/f1-2025-performance-analytics">
+<img src="https://img.shields.io/badge/F1%202025%20Analytics-16213e?style=for-the-badge" />
+</a><br/>
+<sub><b>Sports Analytics</b></sub><br/><br/>
+Formula 1 2025 performance data pipeline and race analytics dashboard.
 <br/><br/>
 </td>
 </tr>
@@ -147,7 +180,29 @@ Internal platform — <code>worker.py</code> · <code>tools.py</code> · <code>c
 
 <div align="center">
 
-[![View All Projects](https://img.shields.io/badge/View%20All%20Projects%20→-E8521A?style=for-the-badge)](https://www.natrajx.in/work)
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects%20→-E8521A?style=for-the-badge)](https://natrajx.in/work)
+
+</div>
+
+---
+
+## 📝 &nbsp;From the Blog
+
+<div align="center">
+
+| Post | Topic |
+|------|-------|
+| [Deterministic AI Systems](https://natrajx.in/blog/deterministic-ai-systems) | Building reliable, reproducible AI in production |
+| [Scaling FastAPI to Production](https://natrajx.in/blog/scaling-fastapi-production) | High-performance Python API architecture |
+| [ML Model Monitoring & Drift](https://natrajx.in/blog/ml-model-monitoring-drift) | Keeping your models honest over time |
+| [Next.js Architecture Patterns](https://natrajx.in/blog/nextjs-architecture-patterns) | Scalable frontend design with Next.js |
+| [Cloud-Native AI Infrastructure](https://natrajx.in/blog/cloud-native-ai-infrastructure) | Building AI systems that scale on the cloud |
+
+</div>
+
+<div align="center">
+
+[![Read the Blog](https://img.shields.io/badge/Read%20All%20Posts%20→-16213e?style=for-the-badge)](https://natrajx.in/blog)
 
 </div>
 
@@ -203,18 +258,18 @@ Internal platform — <code>worker.py</code> · <code>tools.py</code> · <code>c
 
 <br/>
 
-[![Schedule a Meeting](https://img.shields.io/badge/📅%20Schedule%20a%20Meeting-E8521A?style=for-the-badge)](https://www.natrajx.in/contact)
+[![Schedule a Meeting](https://img.shields.io/badge/📅%20Schedule%20a%20Meeting-E8521A?style=for-the-badge)](https://natrajx.in/contact)
 &nbsp;&nbsp;
-[![View Our Work](https://img.shields.io/badge/💼%20View%20Our%20Work-0f3460?style=for-the-badge)](https://www.natrajx.in/work)
+[![View Our Work](https://img.shields.io/badge/💼%20View%20Our%20Work-0f3460?style=for-the-badge)](https://natrajx.in/work)
 &nbsp;&nbsp;
-[![Read the Blog](https://img.shields.io/badge/📖%20Read%20the%20Blog-16213e?style=for-the-badge)](https://www.natrajx.in/blog)
+[![More About Us](https://img.shields.io/badge/🔍%20More%20About%20Us-16213e?style=for-the-badge)](https://natrajx.in/more)
 
 <br/><br/>
 
 <sub>
-<a href="https://www.natrajx.in/privacy">Privacy Policy</a> &nbsp;·&nbsp;
-<a href="https://www.natrajx.in/terms">Terms</a> &nbsp;·&nbsp;
-<a href="https://www.natrajx.in">natrajx.in</a>
+<a href="https://natrajx.in/privacy">Privacy Policy</a> &nbsp;·&nbsp;
+<a href="https://natrajx.in/terms">Terms</a> &nbsp;·&nbsp;
+<a href="https://natrajx.in">natrajx.in</a>
 </sub>
 
 <br/>
