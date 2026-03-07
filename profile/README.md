@@ -145,5 +145,5 @@ Let's talk about your next project and how NATRAJ X can help you build something
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 
-![Footer](https://metal-forge.vercel.app/api/footer?text=Thanks%20for%20visiting!&subtext=Made%20with%20%E2%99%A6%20and%20MetalForge&links=Twitter%2CGitHub%2CLinkedIn&metal=obsidian&style=credits&height=202)
+![Footer](https://metal-forage.vercel.app/api/footer?text=Thanks%20for%20visiting!&subtext=Made%20with%20%E2%99%A6%20and%20MetalForge&links=Twitter%2CGitHub%2CLinkedIn&metal=obsidian&style=credits&height=202)
 
