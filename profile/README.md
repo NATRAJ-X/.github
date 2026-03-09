@@ -149,3 +149,5 @@ Let's talk about your next project and how NATRAJ X can help you build something
 
 ![Social Links](https://metal-forage.vercel.app/api/social-links?links=github%3A%40rishbahbhartiya%2Ctwitter%3A%40yourusername%2Clinkedin%3Ahttps%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fnatraj-x%2F%2Cemail%3Acontact%40natrajx.in&metal=chrome&style=pills&width=600)
 
+
+[![GitHub](https://metal-forage.vercel.app/api/button?label=GitHub&icon=%E2%8C%A5&metal=copper&style=beveled&width=180)](https://github.com)
