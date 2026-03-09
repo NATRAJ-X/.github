@@ -147,5 +147,5 @@ Let's talk about your next project and how NATRAJ X can help you build something
 
 ![Footer](https://metal-forage.vercel.app/api/footer?text=Thanks%20for%20visiting!&subtext=Made%20with%20%E2%99%A6%20and%20MetalForge&links=Twitter%2CGitHub%2CLinkedIn&metal=obsidian&style=credits&height=202)
 
-![Social Links](https://metal-forge.vercel.app/api/social-links?links=github%3A%40rishbahbhartiya%2Ctwitter%3A%40yourusername%2Clinkedin%3Ahttps%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fnatraj-x%2F%2Cemail%3Acontact%40natrajx.in&metal=chrome&style=pills&width=600)
+![Social Links](https://metal-forage.vercel.app/api/social-links?links=github%3A%40rishbahbhartiya%2Ctwitter%3A%40yourusername%2Clinkedin%3Ahttps%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fnatraj-x%2F%2Cemail%3Acontact%40natrajx.in&metal=chrome&style=pills&width=600)
 
