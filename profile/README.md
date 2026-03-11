@@ -152,6 +152,5 @@ Let's talk about your next project and how NATRAJ X can help you build something
 
 [![GitHub](https://metal-forage.vercel.app/api/button?label=GitHub&icon=%E2%8C%A5&metal=copper&style=beveled&width=180)](https://github.com)
 
-![Frame](https://metal-forage.vercel.app/api/gif-container?src=https%3A%2F%2Fwww.natrajx.in%2FLOGO-2.gif&frame=neon&metal=steel&width=300&height=300)
-
-![Frame](https://metal-forage.vercel.app/api/image-container?src=https%3A%2F%2Fwww.natrajx.in%2Fog-image.png&frame=metallic&metal=chrome&width=300&height=220&caption=)
+![Frame](https://metal-forage.vercel.app/api/gif-container?src=https%3A%2F%2Fwww.natrajx.in%2Fog-image.png&frame=minimal&metal=chrome&width=600&height=493)
+![Frame](https://metal-forage.vercel.app/api/image-container?src=https%3A%2F%2Fwww.natrajx.in%2Fog-image.png&frame=minimal&metal=chrome&width=600&height=493&caption=)
